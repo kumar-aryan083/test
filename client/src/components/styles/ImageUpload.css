@@ -1,0 +1,13 @@
+.image-upload{
+    background-color: blue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-img-upload{
+    padding: 10px 20px;
+    background-color: white;
+    width: 20%;
+    border: 2px solid black;
+}
